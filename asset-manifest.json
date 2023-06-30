@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/greendzine-assignment/static/css/main.2036a4ed.css",
+    "main.js": "/greendzine-assignment/static/js/main.10c2c8bc.js",
+    "static/js/787.146bfccd.chunk.js": "/greendzine-assignment/static/js/787.146bfccd.chunk.js",
+    "index.html": "/greendzine-assignment/index.html",
+    "main.2036a4ed.css.map": "/greendzine-assignment/static/css/main.2036a4ed.css.map",
+    "main.10c2c8bc.js.map": "/greendzine-assignment/static/js/main.10c2c8bc.js.map",
+    "787.146bfccd.chunk.js.map": "/greendzine-assignment/static/js/787.146bfccd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2036a4ed.css",
+    "static/js/main.10c2c8bc.js"
+  ]
+}
